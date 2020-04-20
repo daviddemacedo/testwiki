@@ -2,13 +2,14 @@ TP SID SPARK
 
 # Installez Spark sur votre machine locale MacOS
 
-## tep 1 : Install Homebrew
+## Step 1 : Install Homebrew
 Ouvrir un terminal et taper la commande suivante : <br>
 `/usr/bin/ruby -e “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)”`
 
 Enter votre mot de passe lorsqu'il est demandé. 
 
-```==> Cleaning up /Library/Caches/Homebrew...
+```
+==> Cleaning up /Library/Caches/Homebrew...
 ==> Migrating /Library/Caches/Homebrew to /Users/apple/Library/Caches/Homebrew..
 ==> Deleting /Library/Caches/Homebrew...
 Already up-to-date.
